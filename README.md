@@ -3,15 +3,15 @@ This project is a Python-based ATM machine simulation that provides a command-li
 
 # FUNCTIONALITIES
 1. Create Account
-  1.PIN Number
-  2.Account Number
-  3.Intial Deposit
+- PIN Number
+- Account Number
+- Intial Deposit
 2. Access Account
-  1. Account balance inquiry
-  2. Cash withdrawal
-  3. Cash deposit
-  4. PIN change
-  5. Transaction history
+- Account balance inquiry
+- Cash withdrawal
+- Cash deposit
+- PIN change
+- Transaction history
 
 # DEMO VIDEO
 
